@@ -1,0 +1,12 @@
+{
+    "name": "archframework/framework",
+    "description": "Core framework functionality",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Adrian Trainor",
+            "email": "adriantrainor.developer@gmail.com"
+        }
+    ],
+    "require": {}
+}
