@@ -1,5 +1,5 @@
 <?php
-namespace Arch\Request\Api;
+namespace Arch\Request\Web;
 
 class Controller extends \Arch\Request\Controller
 {
