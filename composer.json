@@ -2,6 +2,7 @@
     "name": "archframework/framework",
     "description": "Core framework functionality",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Adrian Trainor",
